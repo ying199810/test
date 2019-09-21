@@ -1,0 +1,24 @@
+ /* 這裡寫CSS的語法*/
+/*CSS選擇器*/
+body{background-color:#cccccc;font-family: "微軟正黑體","新細明體" }
+/*ID選擇器*/
+#del{text-decoration: line-through;}
+/*Class選擇器*/
+.all{
+    background-color: #DDAA00
+}
+.title{
+    font-size:24px;
+    font-weight:bold
+}
+.content{
+    height:auto;
+    width:500px;
+    margin-top:10px;
+    border:1px solid blue;
+    padding: 10px;
+}
+.keyword{
+    color:royalblue
+}
+.underline{text-decoration: underline}
